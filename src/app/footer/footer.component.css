@@ -1,0 +1,14 @@
+.footer .fa-icon {
+    font-size: 1.5rem;
+  }
+  
+  .footer .btn-outline-light {
+    border-color: white;
+    color: white;
+  }
+  
+  .footer .btn-outline-light:hover {
+    background-color: white;
+    color: black;
+  }
+  
